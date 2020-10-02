@@ -5,6 +5,7 @@ layout: default
 Text can Graham! be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[Link to YET another page](./yet-another-page.html).
 
 There should be whitespace between paragraphs.
 
