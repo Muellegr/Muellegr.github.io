@@ -1,5 +1,6 @@
-title: Default Title Graham
-description: Default description Graham
-show_downloads: true
+title: Default Title Graham2
+description: Default description Graham thing
+resume_description: <a href="https://google.com"> resume text </a>
+resume_link: http://google.com
 google_analytics:
 theme: jekyll-theme-slate

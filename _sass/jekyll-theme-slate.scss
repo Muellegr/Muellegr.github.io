@@ -88,6 +88,7 @@ h6 {
   font-size: 16px;
 }
 
+//Paragraph I think
 p {
   margin: 10px 0 15px 0;
 }
@@ -262,25 +263,32 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 640px;
-  padding: 20px 10px;
+  padding: 00px 10px;
   margin: 0 auto;
 }
 
 #header_wrap {
   background: #212121;
-  background: -moz-linear-gradient(top, #545157, #2c2336);
-  background: -webkit-linear-gradient(top, #545157, #2c2336);
-  background: -ms-linear-gradient(top, #545157, #2c2336);
-  background: -o-linear-gradient(top, #545157, #2c2336);
-  background: linear-gradient(to top, #545157, #2c2336);
+  background: -moz-linear-gradient(top, #26112e, #423457);
+  background: -webkit-linear-gradient(top, #26112e, #423457);
+  background: -ms-linear-gradient(top, #26112e, #423457);
+  background: -o-linear-gradient(top, #26112e, #423457);
+  background: linear-gradient(to top, #26112e, #423457);
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  //Top padding    top right bottom left
+  padding: 20px 10px 10px 10px;
 }
 
+#header_wrap_base {
+    background: #56112e;
+    padding: 5px 10px 3px 10px;
+}
 #project_title {
   margin: 0;
+  line-height: 0.5;
+  padding: 20px 0px 5px;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
@@ -289,42 +297,24 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
+  line-height: 0.5;
+  padding: 0px 0px 0px 30px;
   font-size: 24px;
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
 }
 
-#downloads {
-  position: absolute;
-  width: 210px;
-  z-index: 10;
-  bottom: -40px;
-  right: 0;
-  height: 70px;
-  background: url('../images/icon_download.png') no-repeat 0% 90%;
+#project_resume {
+  color: #fff;
+  line-height: 0.5;
+  padding: 0px 0px 0px 30px;
+  font-size: 24px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
 }
 
-.zip_download_link {
-  display: block;
-  float: right;
-  width: 90px;
-  height:70px;
-  text-indent: -5000px;
-  overflow: hidden;
-  background: url(../images/sprite_download.png) no-repeat bottom left;
-}
-
-.tar_download_link {
-  display: block;
-  float: right;
-  width: 90px;
-  height:70px;
-  text-indent: -5000px;
-  overflow: hidden;
-  background: url(../images/sprite_download.png) no-repeat bottom right;
-  margin-left: 10px;
-}
 
 #main_content_wrap {
   background: #f2f2f2;
@@ -333,7 +323,8 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  //Padding for start of page
+  padding-top: 10px;
 }
 
 #footer_wrap {

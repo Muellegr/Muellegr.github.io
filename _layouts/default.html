@@ -11,14 +11,18 @@
   </head>
 
   <body>
-
+    
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title">{{ site.title }}</h1>
+          <h5 id="project_tagline">{{ site.description }}</h5>
+          <h5 id="project_resume">{{ site.resume_description  }}</h5>
         </header>
+    </div>
+    
+    <div id="header_wrap_base" class="outer">
+        
     </div>
 
     <!-- MAIN CONTENT -->
@@ -31,9 +35,6 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>

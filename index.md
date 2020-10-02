@@ -2,6 +2,42 @@
 layout: default
 ---
 
+Status description
+
+Interests/Description
+
+# PROJECTS
+
+### Fall Project - Star Gazer
+blah blah
+link link
+* * *
+
+### FPGA - Max 10 SDRAM Controller
+blah blah
+link link
+* * *
+### OSU Junior Design - FPGA Music Box
+blah blah
+link link
+* * *
+#### Shoulder Bluetooth Radio
+blah blah
+link link
+* * *
+#### GameDev Stuff
+blah blah
+link link
+* * *
+
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
 Text can Graham! be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -20,6 +56,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+test test
+
+> block qoute test
+>
+> yet more block test.
 
 ### Header 3
 
