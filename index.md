@@ -8,23 +8,33 @@ Interests/Description
 
 # PROJECTS
 
-### Fall Project - Star Gazer
+### [Star Gazer](https://github.com/Muellegr/Star_Gazer)
+Ongoing fall-2020 project.
+A handheld device that when pointed at a star or constellation, will display information about it.
+
+Goal is to gain experiance with picking, flashing, and using a microcontroller from scratch.  
+Other goals are using sensitive and small components such as gyrometers and magnometers for sensor information.
+
+* * *
+
+### [FPGA - Max 10 SDRAM Controller](https://github.com/Muellegr/FPGA-Max10-SDRAM-Project-1)
 blah blah
 link link
 * * *
 
-### FPGA - Max 10 SDRAM Controller
+### [OSU Junior Design - FPGA Music Box ](https://github.com/Muellegr/MusicBox-Quartus-Project)
 blah blah
 link link
 * * *
-### OSU Junior Design - FPGA Music Box
-blah blah
-link link
-* * *
+
 #### Shoulder Bluetooth Radio
-blah blah
-link link
+I like do do workouts on a bike around the local trails.  Some of these may end up being an hour of hard work going uphill.  In silence.  
+This project was to create a small speaker connected to an ESP32 microcontroller, which would be connected to my phone over bluetooth.
+This was my first PCB and done without any prior experiance.
+blahblah
+Project failed - PCB was a success, however not designing the case made it easy to put down and forget about.
 * * *
+
 #### GameDev Stuff
 blah blah
 link link
