@@ -11,6 +11,7 @@ A handheld device that when pointed at a star or constellation, will display inf
 
 Goal is to gain experiance with picking, flashing, and using a microcontroller from scratch.  
 Other goals are using sensitive and small components such as gyrometers and magnometers for sensor information.
+
 [Case](https://github.com/Muellegr/Star_Gazer/wiki/Case)
 * * *
 
