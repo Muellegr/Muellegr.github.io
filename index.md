@@ -14,7 +14,8 @@ Other goals are using sensitive and small components such as gyrometers and magn
 
 PCB complete and assembled.  Currently writing prototype software!
 [Case](https://github.com/Muellegr/Star_Gazer/wiki/Case)
-
+![PCB](assets/StarGazer/pcb_angle.png)
+![PCB]2(assets/StarGazer/pcb_top.png)
 * * *
 
 ### » [FPGA - Max 10 SDRAM Controller](https://github.com/Muellegr/FPGA-Max10-SDRAM-Project-1)
