@@ -13,8 +13,15 @@ Goal is to gain experiance with picking, flashing, and using a microcontroller f
 Other goals are using sensitive and small components such as gyrometers and magnometers for sensor information.
 
 PCB complete and assembled.  Currently writing prototype software!
+
 [Case](https://github.com/Muellegr/Star_Gazer/wiki/Case)
+
+[Schematic](https://raw.githubusercontent.com/Muellegr/Star_Gazer/master/Documentation/StarGazer_Schematics.pdf)
+
 ![PCB](assets/StarGazer/pcb_top.png)
+
+
+![PCB](assets/StarGazer/pcb_bottom.png)
 * * *
 
 ### » [FPGA - Max 10 SDRAM Controller](https://github.com/Muellegr/FPGA-Max10-SDRAM-Project-1)
