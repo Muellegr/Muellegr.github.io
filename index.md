@@ -14,8 +14,7 @@ Other goals are using sensitive and small components such as gyrometers and magn
 
 PCB complete and assembled.  Currently writing prototype software!
 [Case](https://github.com/Muellegr/Star_Gazer/wiki/Case)
-![PCB](assets/StarGazer/pcb_angle.png)
-![PCB]2(assets/StarGazer/pcb_top.png)
+![PCB](assets/StarGazer/pcb_top.png)
 * * *
 
 ### » [FPGA - Max 10 SDRAM Controller](https://github.com/Muellegr/FPGA-Max10-SDRAM-Project-1)
@@ -38,14 +37,16 @@ Major systems include
 * PWM controller for lighting
 * Clock generators
 
+![PCB](assets/JuniorDesign/pcb_top.png)
+
 * * *
 
 #### » Shoulder Bluetooth Radio
 I like do do workouts on a bike around the local trails.  Some of these may end up being an hour of hard work going uphill.  In silence.  
 This project was to create a small speaker connected to an ESP32 microcontroller, which would be connected to my phone over bluetooth.
 This was my first PCB and done without any prior experiance.
-Todo
-Project failed - PCB was a success, however not designing the case made it easy to put down and forget about.
+
+Project stalled - PCB was a success, however not designing the case made it easy to put down and forget about.
 * * *
 
 #### » GameDev Stuff
