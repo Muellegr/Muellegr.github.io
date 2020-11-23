@@ -24,6 +24,14 @@ PCB complete and assembled.  Currently writing prototype software!
 ![PCB](assets/StarGazer/pcb_bottom.png)
 * * *
 
+### » [OSU Senior Design - Oscilloscope Front End](https://github.com/Muellegr/SeniorDesign_FrontEndDemoTest)
+
+An oscilloscope front end is responsible for taking a signal to be measured and handling it so that an ADC is capable of reading it.
+Lacking experiance, a basic prototype front end was designed to inspect signal integrity and using a fully differential op-amp with an adjustable DC offset.
+
+![PCB](assets/SeniorDesign/FrontEndPrototype/composite_pcb.png)
+* * *
+
 ### » [FPGA - Max 10 SDRAM Controller](https://github.com/Muellegr/FPGA-Max10-SDRAM-Project-1)
 A summer 2019 solo project.
 SDRAM controller written in System Verilog.  
