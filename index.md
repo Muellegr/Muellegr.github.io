@@ -18,10 +18,7 @@ PCB complete and assembled.  Currently writing prototype software!
 
 [Schematic](https://raw.githubusercontent.com/Muellegr/Star_Gazer/master/Documentation/StarGazer_Schematics.pdf)
 
-![PCB](assets/StarGazer/pcb_top.png)
-
-
-![PCB](assets/StarGazer/pcb_bottom.png)
+![PCB](assets/StarGazer/pcb_bar.png)
 * * *
 
 ### » [OSU Senior Design - Oscilloscope Front End](https://github.com/Muellegr/SeniorDesign_FrontEndDemoTest)
